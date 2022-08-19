@@ -2,7 +2,7 @@
 # Developer Landing Page 🧑‍💻
 
 ### ✨Hey, I am **Ravindra**, 
-### ✨This is  my 8th live Project which is ![badge](https://img.shields.io/badge/Mobile---Responsive--Page-Red)
+### ✨This is  my 9th live Project which is ![badge](https://img.shields.io/badge/Mobile---Responsive--Page-Red)
 ### ✨I made this project using *HTML* & *CSS* 
 ### ✨I have used flexbox and Media Query to make the page mobile friendly 
 
